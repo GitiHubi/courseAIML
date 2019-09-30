@@ -2,6 +2,8 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)
+
 A series of interactive lab notebooks we prepared for the Introduction into Artificial Intelligence and Machine Learning course. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseAIML)

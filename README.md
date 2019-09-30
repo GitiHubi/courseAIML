@@ -10,9 +10,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Running the Lab Notebooks
 
-**Lab 00:** "Testing the Lab Environment" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/mldl_lab_00.ipynb)
+**Lab 00:** "Testing the Lab Environment" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/aiml_lab_00.ipynb)
 
-**Lab 01:** "Introduction to the Lab Environment" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/mldl_colab_01.ipynb)
+**Lab 01:** "Introduction to the Lab Environment" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/aiml_colab_01.ipynb)
 
 ## Getting Started
 

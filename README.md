@@ -2,7 +2,7 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-<center>![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)</center>
+![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)
 
 A series of interactive lab notebooks we prepared for the Introduction into Artificial Intelligence and Machine Learning course. The content of the series is based on Python, IPython Notebook, and PyTorch.
 

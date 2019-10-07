@@ -1,4 +1,4 @@
-## Introduction into Machine Learning and Deep Learning
+## Introduction into Machine Learning and Deep Learning (AI:ML)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 

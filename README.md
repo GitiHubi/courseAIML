@@ -20,6 +20,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 03:** "Supervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03.ipynb)
 
+**Lab 04:** "Unsupervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04.ipynb)
+
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.

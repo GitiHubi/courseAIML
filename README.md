@@ -22,7 +22,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 04:** "Unsupervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04.ipynb)
 
-**Lab 05:** "Supervised Deep Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb)
+**Lab 05:** "Supervised Deep Learning" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05_gpu.ipynb))
 
 ## Getting Started
 

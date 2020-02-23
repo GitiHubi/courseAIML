@@ -16,7 +16,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 01:** "Introduction to the Lab Environment" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/aiml_colab_01.ipynb)
 
-[comment]:**Lab 02:** "Fundamentals of Python Programming" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb)
+<!---
+
+**Lab 02:** "Fundamentals of Python Programming" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb)
 
 [comment]:**Lab 03:** "Supervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03.ipynb)
 
@@ -24,7 +26,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 [comment]:**Lab 05:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05_gpu.ipynb))
 
-[comment]:**Lab 06:** "Supervised Deep Learning - CNNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06_gpu.ipynb))
+[comment]:**Lab 06:** "Supervised Deep Learning - CNNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06_gpu.ipynb)) 
+
+-->
 
 ## Getting Started
 

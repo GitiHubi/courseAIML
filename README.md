@@ -1,4 +1,5 @@
-## Introduction into Machine Learning and Deep Learning (AI:ML)
+## HSG - Master of Business Innovation Course
+## "Introduction into Machine Learning and Deep Learning" (AI:ML)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 

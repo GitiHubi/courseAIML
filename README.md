@@ -1,5 +1,4 @@
-## HSG - Master of Business Innovation Course
-## "Introduction into Machine Learning and Deep Learning" (AI:ML)
+## MBI Master Course :: "Introduction into Machine Learning and Deep Learning"
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 

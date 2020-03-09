@@ -1,10 +1,10 @@
-## Introduction into Machine Learning and Deep Learning (AI:ML)
+## MBI Master Course :: "Introduction into Machine Learning and Deep Learning"
+
+A series of interactive lab notebooks we prepared for the Introduction into **Artificial Intelligence** and **Machine Learning** course offered in the Master of Arts in Business Innovation at the University of St. Gallen. The content of the series of Jupyter Notebook is based on Python, IPython Notebook, and PyTorch.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)
-
-A series of interactive lab notebooks we prepared for the Introduction into **Artificial Intelligence** and **Machine Learning** course at the University of St. Gallen. The content of the series of Jupyter Notebook is based on Python, IPython Notebook, and PyTorch.
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseAIML)
 

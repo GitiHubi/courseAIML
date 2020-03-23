@@ -22,7 +22,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Running the Coding Challenge "Kick-Start" Notebook
 
-**Coding Challenge:** "Data Download" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=challenge%2Faiml_challenge.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/challenge/aiml_challenge.ipynb))
+**Coding Challenge:** "Data Download Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=challenge%2Faiml_challenge.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/challenge/aiml_challenge.ipynb))
 
 <!---
 

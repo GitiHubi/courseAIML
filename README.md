@@ -39,3 +39,5 @@ This is currently work in progress so expect minor errors and some rough edges ;
 Install dependencies via `pip install -r requirements.txt`.
 
 ## Questions?
+
+Pls. don't hesitate to send us all your questions via the course mail address: aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch

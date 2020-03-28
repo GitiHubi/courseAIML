@@ -41,4 +41,5 @@ Install dependencies via `pip install -r requirements.txt`.
 ## Questions?
 
 Pls. don't hesitate to send us all your questions using the course mail address: 
+
 `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`  

@@ -20,13 +20,14 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 03:** "Supervised Machine Learning" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03.ipynb))
 
+**Lab 04:** "Unsupervised Machine Learning" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04.ipynb))
+
+
 ## Running the Coding Challenge "Kick-Start" Notebook
 
 **Coding Challenge:** "Data Download Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=challenge%2Faiml_challenge.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/challenge/aiml_challenge.ipynb))
 
 <!---
-
-[comment]:**Lab 04:** "Unsupervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04.ipynb)
 
 [comment]:**Lab 05:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05_gpu.ipynb))
 

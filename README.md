@@ -1,6 +1,8 @@
-## MBI Master Course :: "Introduction into Machine Learning and Deep Learning"
+## MBI Master Course :: "Introduction into Artificial Intelligence and Machine Learning"
 
-A series of interactive lab notebooks we prepared for the Introduction into **Artificial Intelligence** and **Machine Learning** course offered in the Master of Arts in Business Innovation at the University of St. Gallen. The content of the series of Jupyter Notebook is based on Python, IPython Notebook, and PyTorch.
+A series of interactive lab notebooks we prepared for the 7.044.1,00 Introduction into **Artificial Intelligence** and **Machine Learning** course offered in the Master of Arts in Business Innovation (MBI) at the University of St. Gallen (HSG). 
+
+The content is build on a series of Jupyter Notebooks based on Python, IPython Notebook, and PyTorch.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 

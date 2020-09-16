@@ -16,8 +16,6 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_00%2Faiml_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_00/aiml_lab_00.ipynb))
 
-<!---
-
 **Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_01%2Faiml_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_01/aiml_colab_01.ipynb))
 
 **Lab 02:** "Fundamentals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_02%2Faiml_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb))
@@ -33,6 +31,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 ## Running the Coding Challenge "Kick-Start" Notebook
 
 **Coding Challenge:** "Data Download Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=challenge%2Faiml_challenge.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/challenge/aiml_challenge.ipynb))
+
+<!---
 
 -->
 

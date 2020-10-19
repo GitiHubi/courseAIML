@@ -20,7 +20,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 02:** "Fundamentals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_02%2Faiml_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb))
 
-**Lab 03:** "Supervised Machine Learning" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03a.ipynb))
+**Lab 03:** "Supervised Machine Learning" (Naive-Bayes: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03a.ipynb, k-NN: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03a.ipynb))
 
 <!---
 

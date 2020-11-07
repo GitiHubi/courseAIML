@@ -23,6 +23,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 **Lab 03:** "Supervised Machine Learning" 
 - Naive-Bayes: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03a.ipynb))
 - k-Nearest Neighbors: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03b.ipynb))
+- Logistic Regression: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_07%2Faiml_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_07/aiml_colab_07.ipynb))
 
 <!---
 

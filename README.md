@@ -27,6 +27,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 04:** "Unsupervised Machine Learning" 
 - K-Means: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04a.ipynb))
+- Expectation-Maximization: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04b.ipynb))
 
 <!---
 

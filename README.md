@@ -25,9 +25,10 @@ This is currently work in progress so expect minor errors and some rough edges ;
 - k-Nearest Neighbors: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03b.ipynb))
 - Logistic Regression: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_07%2Faiml_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_07/aiml_colab_07.ipynb))
 
-<!---
+**Lab 04:** "Unsupervised Machine Learning" 
+- K-Means: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04a.ipynb))
 
-**Lab 04:** "Unsupervised Machine Learning" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04.ipynb))
+<!---
 
 **Lab 05:** "Deep Learning - Artificial Neural Networks (ANNs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_05%2Faiml_lab_05.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05_gpu.ipynb))
 
